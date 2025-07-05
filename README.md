@@ -10,7 +10,7 @@
 - [Тест-кейсы (PDF)](https://github.com/nikitazhuravlevqa/web/blob/main/test-cases.pdf)
 
 ### Отчёты о дефектах модулей корзины, оплаты и оформления заказов
-- [Bug Reports (Excel)](https://github.com/nikitazhuravlevqa/web/blob/main/bugreports_cart-payment.xlsx)
+- [Баг-репорты (Excel)](https://github.com/nikitazhuravlevqa/web/blob/main/bugreports_cart-payment.xlsx)
 
 ### Прогон тест-кейсов
 - [Отчёт о прогоне (PDF)](https://github.com/nikitazhuravlevqa/web/blob/main/G10-Test%2Brun%2BZhuravlev.pdf)
