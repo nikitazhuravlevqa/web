@@ -15,7 +15,7 @@
 - [Баг-репорты (Excel)](https://docs.google.com/spreadsheets/d/14iGxwPx4iZQznMPhD-x6fgFCHZYISjkSnGKc6t6Ktag/edit?usp=sharing) – обнаруженные дефекты в модулях корзины, оплаты и оформления заказов
 
 ### 📊 Прогон тест-кейсов
-- [Отчёт о прогоне (PDF)](https://github.com/nikitazhuravlevqa/web/blob/main/G10-Test%2Brun%2BZhuravlev.pdf) – результаты выполнения тест-кейсов
+- [Отчёт о прогоне (PDF)](https://drive.google.com/file/d/1KTQ59zCe-ctQjMFBrR28LjP1EnobHVG7/view?usp=sharing) – результаты выполнения тест-кейсов
 
 ### 🌐 Перехват трафика (Charles Proxy)
 - [Видео (Google Drive)](https://drive.google.com/file/d/1D-TJjUvydXQ1krgu2jRlMJTksnsGF-Hb/view?usp=drive_link) – демонстрация анализа и изменения HTTP-запросов
