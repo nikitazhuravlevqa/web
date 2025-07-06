@@ -12,7 +12,7 @@
 - [Тест-кейсы (PDF)](https://drive.google.com/file/d/1uTGyeGym_y0O-XfSwGkrUeTQgM2x636l/view?usp=sharing) – детализированные сценарии с ожидаемыми результатами
 
 ### 🐞 Баг-репорты
-- [Баг-репорты (Excel)](https://github.com/nikitazhuravlevqa/web/blob/main/bugreports_cart-payment.xlsx) – обнаруженные дефекты в модулях корзины, оплаты и оформления заказов
+- [Баг-репорты (Excel)](https://docs.google.com/spreadsheets/d/14iGxwPx4iZQznMPhD-x6fgFCHZYISjkSnGKc6t6Ktag/edit?usp=sharing) – обнаруженные дефекты в модулях корзины, оплаты и оформления заказов
 
 ### 📊 Прогон тест-кейсов
 - [Отчёт о прогоне (PDF)](https://github.com/nikitazhuravlevqa/web/blob/main/G10-Test%2Brun%2BZhuravlev.pdf) – результаты выполнения тест-кейсов
