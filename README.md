@@ -9,7 +9,7 @@
 - [Чек-лист (Google Sheets)](https://docs.google.com/spreadsheets/d/1sL43HkRiJRX_uB2sPyiLJnoyvVUXCTt-Ikj06giqnyA/edit?gid=0#gid=0) – чек-лист для тестирования важных функций
 
 ### 🧾 Тест-кейсы
-- [Тест-кейсы (PDF)](https://github.com/nikitazhuravlevqa/web/blob/main/test-cases.pdf) – детализированные сценарии с ожидаемыми результатами
+- [Тест-кейсы (PDF)](https://drive.google.com/file/d/1uTGyeGym_y0O-XfSwGkrUeTQgM2x636l/view?usp=sharing) – детализированные сценарии с ожидаемыми результатами
 
 ### 🐞 Баг-репорты
 - [Баг-репорты (Excel)](https://github.com/nikitazhuravlevqa/web/blob/main/bugreports_cart-payment.xlsx) – обнаруженные дефекты в модулях корзины, оплаты и оформления заказов
