@@ -14,3 +14,6 @@
 
 ### Прогон тест-кейсов
 - [Отчёт о прогоне (PDF)](https://github.com/nikitazhuravlevqa/web/blob/main/G10-Test%2Brun%2BZhuravlev.pdf)
+
+### Перехват и изменение трафика с помощью Charles Proxy
+- [Видео](https://drive.google.com/file/d/1D-TJjUvydXQ1krgu2jRlMJTksnsGF-Hb/view?usp=drive_link)
